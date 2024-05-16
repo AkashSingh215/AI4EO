@@ -5,3 +5,5 @@ This repository contains the assignments (total 3) solutions I submitted for the
 `Department: School of AI (ScAI), IIT Delhi. Semester 2- Jan-April, Academic Session 2023-2024.`
 
 This repository contains folders with the names Task1, Task2, and Task3 which correspond to Assignment 1, Assignment 2, and Assignment 3.
+
+I have given a couple(2) of images in the data folder just for example purpose.
